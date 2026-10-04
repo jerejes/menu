@@ -362,4 +362,7 @@ while True:
             calcInventario(tuplaProductos)
 
         case 14:
+            print("Salinedo del programa")
             break
+        case _:
+            print("OPCION INVALIDA")
